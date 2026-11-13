@@ -8,13 +8,13 @@ Fluent in **English** and **French**, always learning something new to stay ahea
 ### ⚙️ What I Do Best
 
 **Frontend** ✨  
-React | Vue | React Native | Expo | Redux | React Query | Tailwind | MUI | Bootstrap | Styled Components  
+React | Vue | React Native | Expo | Redux | React Query | Tailwind  
 
 **Backend** ⚡  
-Node.js | AdonisJS | Express | SQL (MySQL & PostgreSQL) | GraphQL | REST | Apollo Client & Server  
+Node.js | AdonisJS | Express | SQL (MySQL & PostgreSQL) | REST API  
 
 **Other Tools** 🧰  
-Docker | GitHub Actions (CI/CD) | Webpack | Vite | Jest | WordPress | Figma  
+Docker | GitHub Actions (CI/CD) | Vite | WordPress | Figma  
 
 ---
 
